@@ -1,0 +1,5 @@
+/Users/yangjingqi/Desktop/jointCascade_py-master/config/neg/neg1.jpg
+/Users/yangjingqi/Desktop/jointCascade_py-master/config/neg/neg2.jpg
+/Users/yangjingqi/Desktop/jointCascade_py-master/config/neg/neg3.jpg
+/Users/yangjingqi/Desktop/jointCascade_py-master/config/neg/neg4.jpg
+/Users/yangjingqi/Desktop/jointCascade_py-master/config/neg/neg5.jpg
